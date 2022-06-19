@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Data wrangling, Exploratory Data Analysis,Data Visualization, Data Preprocessing and Machine learning projects.
-- 🌱 I’m currently learning Python and relevant liabraries for Machine learning,SQL,Data visualization with Tablue.
+- 🌱 I’m currently skilled at Python and relevant liabraries for Machine learning,SQL(MySQL),Data visualization(Tablue,Excel).
 - 👯 I’m looking to collaborate on Machine learning projects.
 - 📫 Reach me: arvindhh99@gmail.com or Linkedin - https://www.linkedin.com/in/h-h-arvind-232074122/ 
 - ⚡ Fun fact: Data is the New oil of 21st Century, it can be slippery if harnessed properly.
