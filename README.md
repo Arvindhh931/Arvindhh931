@@ -1,4 +1,4 @@
-### Hi, I am Arvind 👋
+## Hi, I am Arvind 👋
 
 <!--
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
