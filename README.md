@@ -8,7 +8,8 @@
 - 🌱 I’m currently skilled at Python and relevant liabraries for Machine learning,SQL(MySQL),Data visualization(Tablue,Excel).
 - 👯 I’m looking to collaborate on Data Analysis & Machine learning projects.
 - 📫 Reach me: Email - arvindhh99@gmail.com | 
-![Linkedin] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - https://www.linkedin.com/in/h-h-arvind-232074122/ 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- https://www.linkedin.com/in/h-h-arvind-232074122/ 
 - ⚡ Fun fact: Data is the New oil of 21st Century, Science of learning Data is slippery.
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
