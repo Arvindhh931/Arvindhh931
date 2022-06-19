@@ -1,8 +1,11 @@
 ## Hi, I am Arvind 👋
+I am persuing PGP-Data Science & Engineering at Great Lakes Executive Learning.
 
 <!--
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
 
 - 🔭 I’m currently working on Data wrangling, Exploratory Data Analysis,Data Visualization, Data Preprocessing and Machine learning projects.
 - 👯 I’m looking to collaborate on Data Analysis & Machine learning projects.
