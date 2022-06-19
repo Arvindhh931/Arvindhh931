@@ -1,5 +1,5 @@
 ## Hi, I am Arvind 👋
-I am persuing PGP-Data Science & Engineering at [Great Lakes Executive Learning](https://www.mygreatlearning.com/pg-program-data-science-online-course)
+I am currently persuing PGP-Data Science & Engineering at [Great Lakes Executive Learning](https://www.mygreatlearning.com/pg-program-data-science-online-course)
 
 <!--
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
