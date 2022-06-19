@@ -1,6 +1,6 @@
 ## Hi, I am Arvind 👋
 I am persuing PGP-Data Science & Engineering at 
-Great Lakes Executive Learning.
+- [Great Lakes Executive Learning](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
 <!--
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
