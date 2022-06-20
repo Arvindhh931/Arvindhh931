@@ -25,3 +25,4 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Tablue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+/keybase/pgp/:username
