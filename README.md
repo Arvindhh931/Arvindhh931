@@ -10,8 +10,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 - 🔭 I’m currently working on Data Preprocessing & Machine learning projects.
 - 👯 I’m looking to collaborate on Data Analysis & Machine learning projects.
 - 📫 Reach me: Email - arvindhh99@gmail.com 
-- Linkedin - https://www.linkedin.com/in/h-h-arvind-232074122/ 
-- 
+- Linkedin - [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
 - ⚡ Fun fact: Data is the New oil of 21st Century, Science of learning Data is slippery.
 
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -26,4 +25,3 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 ![Tablue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-[![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
