@@ -26,4 +26,4 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 ![Tablue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![LINKEDIN](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=H H Arvind&logoColor=white)](https://www.linkedin.com/)
+![[linkedin](https://img.shields.io/badge/H H Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
