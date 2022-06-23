@@ -9,13 +9,13 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 - 🔭 I’m currently working on Data Preprocessing & Machine learning projects.
 - 👯 I’m looking to collaborate on Machine learning projects.
+- 
+- ⚡ Fun fact: Data is the New oil of 21st Century, Science of learning Data is slippery.
 
 ## Connect with me @
 
 [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
 
-
-- ⚡ Fun fact: Data is the New oil of 21st Century, Science of learning Data is slippery.
 
 ## 🛠 Skills
 
