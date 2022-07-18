@@ -9,7 +9,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 - 🔭 I’m currently working on Data Preprocessing, Supervised & Unsupervised Machine learning projects.
 - 👯 I’m looking to collaborate on Machine learning projects.
-- ⚡ Fun fact: Data is the New oil of 21st Century, Science of learning Data is slippery.
+- ⚡ Fun fact: Data is the New oil of 21st Century.
 
 ## Connect with me @
 
