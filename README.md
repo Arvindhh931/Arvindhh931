@@ -9,7 +9,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 - 🔭 I’m currently working on two projects
     - 🔭 Prediction of miles per gallon of a car given features using Auto-mpg dataset.
     - 🔭 Prediction of probability of hospital readmission & importance of HBA1c test in such scenario.
-- 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning.
+- 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning preferably the Health care Analytics.
 - ⚡ Fun fact: Data is the New oil of 21st Century & the path to becomce Data professional is slippery.
 
 ## Connect with me @
