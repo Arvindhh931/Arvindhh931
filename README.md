@@ -6,8 +6,9 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 -->
 
 
-
-- 🔭 I’m currently working on Data Preprocessing, Supervised & Unsupervised Machine learning projects.
+- 🔭 I’m currently working on two projects
+    - 🔭 Prediction of miles per gallon of a car given features using Auto-mpg dataset.
+    - 🔭 Prediction of probability of hospital readmission & importance of HBA1c test in such scenario.
 - 👯 I’m looking to collaborate on Machine learning projects.
 - ⚡ Fun fact: Data is the New oil of 21st Century.
 
