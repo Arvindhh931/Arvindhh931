@@ -10,7 +10,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
     - 🔭 SMS spam classification (NLP domain) 
     - 🔭 Prediction of probability of hospital readmission & importance of HBA1c test in such scenario.
 - 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning preferably the Health care Analytics.
-- ⚡ Fun fact: Data is the New oil of 21st Century & the path to becomce Data professional is slippery.
+- ⚡ Fun fact: I am a overfitting model, i would like reduce my variance by working on real world data :)
 
 ## Connect with me @
 
