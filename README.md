@@ -1,4 +1,4 @@
-## Hi, I am Arvind 👋
+## Hi, I am Arvind, a data geek 👋
 I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive Learning 2021-2022](https://www.mygreatlearning.com/pg-program-data-science-online-course)
 
 <!--
