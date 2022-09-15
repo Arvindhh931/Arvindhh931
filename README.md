@@ -33,5 +33,5 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![PowerBI](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![PowerBI](https://camo.githubusercontent.com/ba257102df0705adb131cefdac0d0c40174b948434d9c7bbfd8c883219e38a3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765722b424926636f6c6f723d323232323232266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d463243383131266c6162656c3d)
 
