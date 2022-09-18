@@ -13,7 +13,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 ## Connect with me @
 
-[![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
+link - [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
 
 
 ## 🛠 Skills
