@@ -17,7 +17,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 
 ## 🛠 Skills
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) - Data Base Management system 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![MIT License](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
@@ -28,5 +28,4 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://camo.githubusercontent.com/ba257102df0705adb131cefdac0d0c40174b948434d9c7bbfd8c883219e38a3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765722b424926636f6c6f723d323232323232266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d463243383131266c6162656c3d) - Data visualization
-
+![PowerBI](https://camo.githubusercontent.com/ba257102df0705adb131cefdac0d0c40174b948434d9c7bbfd8c883219e38a3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765722b424926636f6c6f723d323232323232266c6f676f3d506f7765722b4249266c6f676f436f6c6f723d463243383131266c6162656c3d)
