@@ -17,7 +17,7 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 
 
 ## 🛠 Skills
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- Data Base Management system - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
