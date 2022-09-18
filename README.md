@@ -6,8 +6,8 @@ I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive 
 -->
 
 
-- 🔭 I’m currently working on two projects
-    - 🔭 Prediction of probability of hospital readmission & importance of HBA1c test in such scenario.
+- 🔭 I’m currently working on CAPSTONE project
+    - 🔭 Prediction of probability of hospital readmission & importance of HBA1c test in prediction of re-admission rate
 - 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning preferably the Health care Analytics.
 - ⚡ Fun fact: I am a overfitting model, i would like reduce my variance by working on real world data 😄
 
