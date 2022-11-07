@@ -1,5 +1,5 @@
 ## Hi, I am Arvind, a data geek 👋
-I am currently persuing PGP-Data Science & Engineering @ [Great Lakes Executive Learning 2021-2022](https://www.mygreatlearning.com/pg-program-data-science-online-course)
+I am currently in a completing phase of Post Graduation Program in Data Science & Engineering @ [Great Lakes Executive Learning 2021-2022](https://www.mygreatlearning.com/pg-program-data-science-online-course)
 
 <!--
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
