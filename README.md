@@ -10,7 +10,7 @@ I am currently in a completing phase of Post Graduation Program in Data Science 
 
 - 🔭 I’m currently working on CAPSTONE project
     - 🔭 Prediction of probability of hospital readmission & importance of Glucose monitering (HBA1c test) in prediction of re-admission rate
-- 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning.
+- 👯 I’m looking to for full time opportunity in the field of Data science and Machine learning/ Data Analytics
 - ⚡ Fun fact: I am a overfitting model, i would like reduce my variance by working on real world data 😄
 
 ## Connect with me @
