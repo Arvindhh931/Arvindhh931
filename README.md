@@ -1,5 +1,5 @@
 ## Hi, I am Arvind, a data geek 👋
-I am currently in a completing phase of Post Graduation Program in Data Science & Engineering at
+I completed Post Graduation Program in Data Science & Engineering at
   
 [Great Lakes Institute of Management 2021-2022 - Bengaluru](https://www.mygreatlearning.com/pg-program-data-science-online-course)
 
