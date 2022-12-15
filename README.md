@@ -12,7 +12,7 @@ I completed Post Graduation Program in Data Science & Engineering at
 
 ## Connect with me @
 
-link - [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
+[![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
 
 
 ## 🛠 Skills
