@@ -7,8 +7,7 @@ I completed Post Graduation Program in Data Science & Engineering at
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m looking to for full time opportunity in the field of Data science and Machine learning/ Data Analytics
-- ⚡ Fun fact: I am a overfitting model, i would like reduce my variance by working on real world data 😄
+- 🔭 I’m currently working on chatbot project related to Human Resource Management system
 
 ## Connect with me @
 
