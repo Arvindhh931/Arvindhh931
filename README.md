@@ -7,7 +7,7 @@ I completed Post Graduation Program in Data Science & Engineering at
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on 
+🔭 I’m currently working on 
 - chatbot project related to Human Resource Management system
 - String matching
 - Django REST Framework
