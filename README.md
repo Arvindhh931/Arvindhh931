@@ -9,7 +9,7 @@ I completed Post Graduation Program in Data Science & Engineering at
 
 🔭 I’m currently working on 
 - chatbot project related to Human Resource Management system
-- String matching
+- Fuzzy string matching
 - Django REST Framework
 
 ## Connect with me @
