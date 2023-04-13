@@ -8,8 +8,8 @@ I completed Post Graduation Program in Data Science & Engineering at
 -->
 
 🔭 I’m currently working on 
-- Chatbot project related to Human Resource Management system (Rule based/ML based/DL Based)
-- Fuzzy string matching algorithms
+- Chatbot project (Rule based/ML based/DL Based)
+- Text similarity (NLP)
 - Django REST Framework
 
 ## Connect with me @
