@@ -9,9 +9,10 @@
 -->
 
 🔭 I’m currently working on 
-- Chatbot project (Rule based/ML based/DL Based)
+- Conversational agent (Rule based/ML based/DL Based)
 - Text similarity (NLP)
-- Django REST Framework
+- Django REST Framework, FastAPI
+- MongoDB 
 
 ## Connect with me @
 
