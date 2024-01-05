@@ -8,6 +8,11 @@
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+🔭 I’m currently contributing on
+- Low code platform for Data management
+  - python FastAPI framework for Repository Management
+  - MySQL, MongoDB for Repository Management
+
 🔭 I have worked on projects 
   - Conversational agent (Natural language processing based)
     - Traditional Machine learning
@@ -15,11 +20,6 @@
   - Master Data Management(MDM)
     - Traditional string matching & Machine learing based string matching
   
-🔭 I’m currently contributing on
-- Low code platform for Data management
-  - python FastAPI framework for Repository Management
-  - MySQL, MongoDB for Repository Management
-
 ## Connect with me @
 
 [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
