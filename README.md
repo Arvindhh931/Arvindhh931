@@ -17,8 +17,8 @@
   
 🔭 I’m currently contributing on
 - Low code platform for Data management
-  - python FastAPI framework 
-  - MySQL, MongoDB
+  - python FastAPI framework for Repository Management
+  - MySQL, MongoDB for Repository Management
 
 ## Connect with me @
 
