@@ -9,9 +9,9 @@
 -->
 
 🔭 I’m currently contributing on
-- Low code platform for Data management
-  - python FastAPI framework for Repository Management
-  - MySQL, MongoDB for Repository Management
+- Data Management API's (Low code platform for Data management)
+  - Python API's using FastAPI framework for Repository Management
+  - Data handling MySQL, MongoDB
 
 🔭 I have worked on projects 
   - Conversational agent (Natural language processing based)
