@@ -8,9 +8,14 @@
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on 
-- Conversational agent (Rule based/ML based/DL Based)
-- Text similarity (NLP)
+🔭 I have worked on projects 
+  - Conversational agent 
+    - Natural language processing
+    - Traditional Machine learning
+    - Deep Neural networks
+    - Django REST Framework
+  
+🔭 I’m currently working on
 - Django REST Framework, FastAPI
 - MongoDB 
 
