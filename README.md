@@ -1,7 +1,7 @@
 ## Hi, I am Arvind, a data geek 👋
-- I am working as a Machine learning Engineer at InfoKalash IT services
+- I am working as a Machine learning Engineer in Data Management at InfoKalash IT services
 
-- I completed Post Graduation Program in Data Science & Engineering at  
+- I completed Post Graduation Program in Data Science & Data Engineering at  
 [Great Lakes Institute of Management 2021-2022 - Bengaluru](https://www.mygreatlearning.com/pg-program-data-science-online-course)
 
 <!--
