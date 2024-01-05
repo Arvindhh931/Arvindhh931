@@ -9,15 +9,16 @@
 -->
 
 🔭 I have worked on projects 
-  - Conversational agent 
-    - Natural language processing
+  - Conversational agent (Natural language processing based)
     - Traditional Machine learning
     - Deep Neural networks
-    - Django REST Framework
+  - Master Data Management(MDM)
+    - Traditional string matching & Machine learing based string matching
   
-🔭 I’m currently working on
-- Django REST Framework, FastAPI
-- MongoDB 
+🔭 I’m currently contributing on
+- Low code platform for Data management
+  - python FastAPI framework 
+  - MySQL, MongoDB
 
 ## Connect with me @
 
