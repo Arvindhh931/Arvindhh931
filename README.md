@@ -13,7 +13,7 @@
   - Python API's using FastAPI framework for Repository Management
   - Databases - MySQL, MongoDB, Elastic search
 
-🔭 I have worked on projects 
+🔭 projects i have worked 
   - Conversational agent (Natural language processing based)
     - Traditional Machine learning
     - Deep Neural networks
