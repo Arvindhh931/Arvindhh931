@@ -12,7 +12,7 @@
 - Data Management API's (Low code platform for Data management)
   - Python API's using FastAPI framework for Repository Management
   - Databases - MySQL, MongoDB
-- AWS
+- Amazon web services (AWS)
   - AWS Glue
   - AWS Lambda
   - AWS S3
