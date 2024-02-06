@@ -11,7 +11,8 @@
 🔭 I’m currently contributing on
 - Data Management API's (Low code platform for Data management)
   - Python API's using FastAPI framework for Repository Management
-  - Databases - MySQL, MongoDB, Elastic search
+  - Databases - MySQL, MongoDB
+  - Amazon web services (AWS) ETL
 
 🔭 projects i have worked 
   - Conversational agent (Natural language processing based)
