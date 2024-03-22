@@ -13,9 +13,10 @@
   - Python API's using FastAPI framework for Repository Management
   - Databases - MySQL, MongoDB
 - Amazon web services (AWS)
-  - AWS Glue
-  - AWS Lambda
-  - AWS S3
+  - AWS Glue (Data Integration)
+  - AWS EC2
+  - AWS Lambda 
+  - AWS S3 
   - AWS DynamoDB
 
 🔭 projects i have worked 
