@@ -1,5 +1,5 @@
 ## Hi, I am Arvind, a data geek 👋
-- I am working as a Machine learning Engineer in Data Management at InfoKalash IT services
+- I am working as a Senior Data Engineer and Machine learning practitioner at InfoKalash IT services
 
 - I completed Post Graduation Program in Data Science & Data Engineering at  
 [Great Lakes Institute of Management 2021-2022 - Bengaluru](https://www.mygreatlearning.com/pg-program-data-science-online-course)
@@ -9,17 +9,23 @@
 -->
 
 🔭 I’m currently contributing on
-- Data Management API's (Low code platform for Data management)
-  - Python API's using FastAPI framework for Repository Management
-  - Databases - MySQL, MongoDB
 - Amazon web services (AWS)
-  - AWS Glue (Data Integration)
+  - AWS Glue (Data Integration, ETL, ELT, Data Governance)
+  - AWS Redshift
+  - AWS MSK & AWS KINESIS
+  - AWS RDS
   - AWS EC2
   - AWS Lambda 
   - AWS S3 
   - AWS DynamoDB
+- Data Management API's (Low code platform for Data management)
+  - Python API's using FastAPI framework for Repository Management, Data Lineage, Data Observability
+  - Databases - MySQL, MongoDB
 
 🔭 projects i have worked 
+  - Analytics Engineer
+    Business critical ELT data modeling for downstream consumption (Tableau Dashboard)
+    using **DBT** cloud (data base tool).
   - Conversational agent (Natural language processing based)
     - Traditional Machine learning
     - Deep Neural networks
