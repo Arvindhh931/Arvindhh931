@@ -11,6 +11,8 @@
 🔭 I’m currently contributing as a Senior Data Engineer for Business critical downstream data requirement for Dashboard using
   - Amazon web services (AWS)
     - AWS Glue (Data Integration, ETL, ELT, Data Governance)
+    - AWS S3 
+    - AWS Athena
     - AWS Redshift
     - AWS Lake Formation
     - AWS SQS/SNS
@@ -19,7 +21,6 @@
     - AWS EC2
     - AWS Lambda
     - AWS Stepfunction
-    - AWS S3 
     - AWS DynamoDB
 - Data Management API's (Low code platform for Data management)
   - Python API's using FastAPI framework for Repository Management, Data Lineage, Data Observability
