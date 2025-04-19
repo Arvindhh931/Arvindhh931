@@ -12,6 +12,8 @@
   - Amazon web services (AWS)
     - AWS Glue (Data Integration, ETL, ELT, Data Governance)
     - AWS Redshift
+    - AWS Lake Formation
+    - AWS SQS/SNS
     - AWS MSK & AWS KINESIS
     - AWS RDS
     - AWS EC2
