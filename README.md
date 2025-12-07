@@ -18,8 +18,8 @@
 
 ## 🛠 Cloud Skills
 
-- Amazon web services (ETL/ELT)
-- Azure cloud
+- Amazon web services (ETL/ELT/Lakehouse)
+- Azure cloud (ELT/ETL/Lakehouse)
 
 ## Tools
 - DBT 
