@@ -8,7 +8,7 @@
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I hold expertise in Datawarehouse/Lakehouse implementation using Databricks (Azure/AWS), Custom ETL/ELT pipelines.
+- I hold expertise in Data warehouse/Lakehouse implementation using Databricks (Azure/AWS), Custom ETL/ELT pipelines.
 
 
 ## Connect with me @
