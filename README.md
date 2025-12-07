@@ -1,5 +1,5 @@
 ## Hi, I am Arvind, a data geek 👋
-- I am working as a Senior Data Engineer and Machine learning practitioner at InfoKalash IT services
+- I am working as a Senior Data Engineer at InfoKalash IT services
 
 - I completed Post Graduation Program in Data Science & Data Engineering at  
 [Great Lakes Institute of Management 2021-2022 - Bengaluru](https://www.mygreatlearning.com/pg-program-data-science-online-course)
@@ -8,36 +8,9 @@
 **Arvindhh931/Arvindhh931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently contributing as a Senior Data Engineer for Business critical downstream data requirement for Dashboard using
-  - Amazon web services (AWS)
-    - AWS Glue (Data Integration, ETL, ELT, Data Governance)
-    - AWS S3 
-    - AWS Athena
-    - AWS Redshift
-    - AWS Lake Formation
-    - AWS SQS/SNS
-    - AWS MSK & AWS KINESIS
-    - AWS RDS
-    - AWS EC2
-    - AWS Lambda
-    - AWS Stepfunction
-    - AWS DynamoDB
-- Data Management API's (Low code platform for Data management)
-  - Python API's using FastAPI framework for Repository Management, Data Lineage, Data Observability
-  - Databases - MySQL, MongoDB
+🔭 I hold expertise in Lakehouse implementation using Databricks (Azure/AWS) 
 
-🔭 projects i have worked 
-  - Analytics Engineer
-    Business critical ELT data modeling for downstream consumption (Tableau Dashboard)
-    using **DBT** cloud (data base tool).
-  - Data pipeline Financial Data Migration at scale from tradition Data warehouse MSSQL server to Salesforce CRM using industry standard best practises
-      - python, AWS S3, EC2, lambda, step function 
-  - Conversational agent (Natural language processing based)
-    - Traditional Machine learning
-    - Deep Neural networks
-  - Master Data Management(MDM)
-    - Traditional string matching & Machine learing based string matching
-  
+
 ## Connect with me @
 
 [![linkedin](https://img.shields.io/badge/H_H_Arvind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-arvind-232074122/)
