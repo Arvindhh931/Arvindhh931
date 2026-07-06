@@ -1,5 +1,5 @@
 ## Hi, I am Arvind, a data geek 👋
-- I am working as a Senior Data Engineer at InfoKalash IT services
+- I am working as a Senior Data Engineer at KeeHoo AI
 
 - I completed Post Graduation Program in Data Science & Data Engineering at  
 [Great Lakes Institute of Management 2021-2022 - Bengaluru](https://www.mygreatlearning.com/pg-program-data-science-online-course)
